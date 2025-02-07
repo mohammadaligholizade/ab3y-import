@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.aval-car {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    height: 50vh;
+    font-size: 3rex;
+    color: aliceblue;
+
+}
+.download{
+    color: #6200ff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+p {
+    font-size: 3rex;
+}
+.download :hover {
+    color: aqua;
+}
+body {
+    background-color: black;
+}
