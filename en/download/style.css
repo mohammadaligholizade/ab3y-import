@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h1-carton{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.download-carton :hover {
+    color: rgb(4, 100, 172);
+}
+.download-carton {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.darbare-carton {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.darbare-carton :hover {
+    color: rgb(4, 100, 184);
+}
